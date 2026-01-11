@@ -24,8 +24,9 @@ This project performs Exploratory Data Analysis (EDA) on a sales dataset to unco
 
 ## 📂 Files
 - `EDA_Sales_Analysis.ipynb` → main analysis notebook
-- `dataset.xlsx` → dataset used
+- `sales_dataset.xlsx` → dataset used
 
 ## 👩‍💻 Author
 Tanisha Ramteke
 Aspiring Data Analyst
+
